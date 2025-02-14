@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá! Eu sou o Matheus Imberio 👋
 
-<!--
-**Matheus-Imberio/Matheus-Imberio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação na UTFPR - Campo Mourão  
+🔭 Trabalhando em projetos com Java, Spring Boot, MongoDB, Vue.js  
+🌱 Aprendendo sobre Inteligência Artificial e Cibersegurança  
+📫 Como me encontrar: [LinkedIn](www.linkedin.com/in/matheusimberio)
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que utilizo:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Inteligência Artificial](https://img.shields.io/badge/IA-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Estatísticas:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus-Imberio&show_icons=true&theme=dark)
+
+
