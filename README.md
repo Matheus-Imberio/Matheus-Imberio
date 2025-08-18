@@ -1,7 +1,7 @@
 # Olá! Eu sou o Matheus Imberio 👋
 
 🎓 Estudante de Ciência da Computação na UTFPR - Campo Mourão  
-🔭 Trabalhando em projetos com Java, Spring Boot, MongoDB, Vue.js  
+🔭 Trabalhando em projetos com Java, Spring Boot, MongoDB, Vue.js, Nest.js  
 🌱 Aprendendo sobre Inteligência Artificial e Cibersegurança  
 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/matheusimberio)
 
