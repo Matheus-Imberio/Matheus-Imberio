@@ -24,6 +24,3 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 📈 Estatísticas:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus-Imberio&show_icons=true&theme=dark)
